@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.chariotsolutions.nfc.demo.writer"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.chariotsolutions.nfc.demo.writer"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.chariotsolutions.nfc.demo.writer"
+        },
+        "phonegap-nfc": {
+            "PACKAGE_NAME": "com.chariotsolutions.nfc.demo.writer"
+        }
+    },
+    "dependent_plugins": {}
+}
