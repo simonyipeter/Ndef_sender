@@ -1,0 +1,10 @@
+bin/
+gen/
+update.sh
+pg.sh
+*.iml
+.idea/
+local.properties
+
+platforms
+plugins
